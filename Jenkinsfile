@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    IMAGE = "meerasa786/ultimate-devops-project"
+    IMAGE = "meera786/ultimate-devops-project"
   }
 
   stages {
